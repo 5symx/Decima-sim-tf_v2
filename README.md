@@ -1,3 +1,5 @@
+tensorflow v2 supported
+
 # Decima
 
 Simulator part of Decima (SIGCOMM '19) https://web.mit.edu/decima
